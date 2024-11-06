@@ -72,6 +72,3 @@ This project is licensed under the MIT License.
 - [Netflix](https://www.netflix.com/) for inspiration.
 - Datasets used from [MovieLens](https://grouplens.org/datasets/movielens/).
 
----
-
-This README provides a structured introduction and usage guide for your Netflix Recommendation System repository. Let me know if there are specific sections you'd like to expand on, or if you want to include additional details!
